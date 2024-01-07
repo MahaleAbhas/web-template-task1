@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header{
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)), url(image/3.jpg);
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.imgg{
+    margin-left: 40px;
+}
+.has-s .has-search{
+    margin-left: 20%;
+    margin-top: 10px;
+    width: 500px;
+    
+}
+
+.has-s .has-search .form-control {
+    padding-left: 2.375rem;
+    border-radius: 20px;
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+.contain{
+    margin-left: 20%;
+    /* margin-top: 10px; */
+}
+
+.HVCOn{
+    margin-top: 280px;
+    
+}
+
+a p{
+    color: black;
+}
+
+.line {
+    border-bottom: 2px solid gainsboro;
+    margin-top: 5px;
+    width: 100%;
+}
+
+.seearch .has-search{
+    width: 300px;
+}
+.seearch .has-search .form-control {
+    
+    padding-left: 2.375rem;
+    border: none;
+}
+
+
+
+
+  
